@@ -14,6 +14,8 @@ You can click the Preview link to take a look at your changes.
 
 <!--START_SECTION:waka-->
 ```text
+Total: 22 hrs 54 mins
+
 TypeScript   22 hrs 24 mins  ████████████████████████▒   97.81 % 
 JavaScript   14 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.06 % 
 Bash         8 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.60 % 
