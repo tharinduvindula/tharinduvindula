@@ -15,9 +15,8 @@ You can click the Preview link to take a look at your changes.
 <!--START_SECTION:waka-->
 
 ```text
-TypeScript   7 hrs 6 mins    ███████████████████████▓░   94.94 %
-JSON         22 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   05.05 %
-JavaScript   0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.02 %
+TypeScript   5 hrs 2 mins    ███████████████████████▒░   93.03 %
+JSON         22 mins         █▓░░░░░░░░░░░░░░░░░░░░░░░   06.97 %
 LESS         0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 %
 ```
 
