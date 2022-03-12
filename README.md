@@ -15,12 +15,12 @@ You can click the Preview link to take a look at your changes.
 <!--START_SECTION:waka-->
 
 ```text
-TypeScript     22 hrs 22 mins  ████████████████████████░   96.60 %
-JSON           23 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.66 %
-JavaScript     19 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.43 %
-yarn.lock      2 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.17 %
-tsconfig       0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.07 %
-HTML           0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.06 %
+TypeScript     26 hrs 37 mins  ███████████████████████▒░   93.84 %
+JSON           35 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.08 %
+Bash           31 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.87 %
+JavaScript     20 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.22 %
+.env file      11 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.69 %
+yarn.lock      2 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.14 %
 ```
 
 <!--END_SECTION:waka-->
