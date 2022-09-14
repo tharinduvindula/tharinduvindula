@@ -15,12 +15,12 @@ You can click the Preview link to take a look at your changes.
 <!--START_SECTION:waka-->
 
 ```text
-TypeScript       2 hrs 43 mins   ████████████████████████░   96.35 %
-JSON             5 mins          █░░░░░░░░░░░░░░░░░░░░░░░░   03.49 %
-textmate         0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.11 %
-Text             0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.04 %
-Objective-C      0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 %
-GitIgnore file   0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 %
+TypeScript       16 hrs 23 mins  ████████████████████████░   96.45 %
+JSON             16 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.57 %
+CSS              12 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.27 %
+JavaScript       1 min           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.19 %
+GitIgnore file   1 min           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.14 %
+Markdown         1 min           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.11 %
 ```
 
 <!--END_SECTION:waka-->
