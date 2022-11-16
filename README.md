@@ -15,12 +15,12 @@ You can click the Preview link to take a look at your changes.
 <!--START_SECTION:waka-->
 
 ```text
-TypeScript     3 hrs 29 mins   ████████████████▓░░░░░░░░   66.06 %
-JSON           1 hr 13 mins    █████▓░░░░░░░░░░░░░░░░░░░   23.22 %
-.env file      11 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   03.66 %
-tsconfig       6 mins          ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.19 %
-SCSS           5 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.64 %
-Shell Script   4 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.45 %
+TypeScript     5 hrs 37 mins   ███████████████████░░░░░░   75.79 %
+JSON           1 hr 13 mins    ████░░░░░░░░░░░░░░░░░░░░░   16.53 %
+.env file      11 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.60 %
+tsconfig       6 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.56 %
+SCSS           5 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.16 %
+Shell Script   4 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.03 %
 ```
 
 <!--END_SECTION:waka-->
