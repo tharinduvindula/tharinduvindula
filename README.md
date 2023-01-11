@@ -15,12 +15,12 @@ You can click the Preview link to take a look at your changes.
 <!--START_SECTION:waka-->
 
 ```text
-TypeScript      4 hrs 25 mins   ████████████░░░░░░░░░░░░░   48.41 %
-YAML            1 hr 32 mins    ████▒░░░░░░░░░░░░░░░░░░░░   16.84 %
-HTML            42 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   07.75 %
-AUTO_DETECTED   34 mins         █▓░░░░░░░░░░░░░░░░░░░░░░░   06.29 %
-Bash            32 mins         █▓░░░░░░░░░░░░░░░░░░░░░░░   06.00 %
-.env file       30 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   05.57 %
+TypeScript      7 hrs 42 mins   █████████████████▓░░░░░░░   71.10 %
+HTML            42 mins         █▓░░░░░░░░░░░░░░░░░░░░░░░   06.53 %
+YAML            41 mins         █▓░░░░░░░░░░░░░░░░░░░░░░░   06.36 %
+AUTO_DETECTED   34 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   05.30 %
+JSON            28 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   04.45 %
+.env file       16 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.46 %
 ```
 
 <!--END_SECTION:waka-->
