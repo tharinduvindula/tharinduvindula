@@ -15,12 +15,12 @@ You can click the Preview link to take a look at your changes.
 <!--START_SECTION:waka-->
 
 ```text
-TypeScript       5 hrs 35 mins   ███████████░░░░░░░░░░░░░░   44.15 %
-HTML             5 hrs 32 mins   ███████████░░░░░░░░░░░░░░   43.68 %
-SCSS             1 hr 3 mins     ██░░░░░░░░░░░░░░░░░░░░░░░   08.37 %
-JSON             24 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.25 %
-GitIgnore file   1 min           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.24 %
-Text             1 min           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.24 %
+HTML           4 hrs 20 mins   ███████████▓░░░░░░░░░░░░░   46.84 %
+TypeScript     3 hrs 39 mins   ██████████░░░░░░░░░░░░░░░   39.44 %
+SCSS           1 hr            ██▓░░░░░░░░░░░░░░░░░░░░░░   10.92 %
+JSON           13 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.46 %
+Shell Script   0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.17 %
+Bash           0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.10 %
 ```
 
 <!--END_SECTION:waka-->
