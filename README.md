@@ -15,11 +15,10 @@ You can click the Preview link to take a look at your changes.
 <!--START_SECTION:waka-->
 
 ```txt
-.env file         0 secs          █████████████████▓░░░░░░░   70.17 %
-TypeScript        0 secs          ███░░░░░░░░░░░░░░░░░░░░░░   12.38 %
-HTTP Request      0 secs          █▒░░░░░░░░░░░░░░░░░░░░░░░   05.35 %
-Bash              0 secs          █▒░░░░░░░░░░░░░░░░░░░░░░░   05.29 %
-JavaScript        0 secs          █▒░░░░░░░░░░░░░░░░░░░░░░░   05.26 %
+TypeScript        0 secs          ██████████████████░░░░░░░   71.94 %
+Project Details   0 secs          ████▓░░░░░░░░░░░░░░░░░░░░   19.09 %
+YAML              0 secs          █▒░░░░░░░░░░░░░░░░░░░░░░░   05.74 %
+Shell Script      0 secs          ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.23 %
 ```
 
 <!--END_SECTION:waka-->
